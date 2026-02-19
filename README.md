@@ -38,10 +38,15 @@ High Experience
 ## 🚀 Live Features
 
 ✔ User Experience Level Prediction
+
 ✔ Confidence Score Display
+
 ✔ Feature Scaling using StandardScaler
+
 ✔ One-Hot Encoding
+
 ✔ Random Forest Classification
+
 ✔ Interactive UI built with Streamlit
 
 ---
