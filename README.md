@@ -218,9 +218,7 @@ The app:
 Predicted Experience Level
 ![alt text](image.png)
 
-Confidence Percentage
 
-Clean interactive UI
 
 ---
 
